@@ -1,0 +1,9 @@
+.engras {
+  font-weight: bold;
+  color: red;
+}
+
+
+.bordure {
+  border: 2px solid gainsboro;
+}
